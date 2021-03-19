@@ -31,4 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MughalAman&layout=compact&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MughalAman&repo=SteamIdler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MughalAman&repo=SteamIdler&theme=tokyonight)](https://github.com/MughalAman/SteamIdler)
