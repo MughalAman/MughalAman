@@ -29,4 +29,4 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MughalAman&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MughalAman&layout=compact&theme=tokyonight)
