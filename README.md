@@ -12,7 +12,6 @@
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-PHP-7DA0D0?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
-[![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
@@ -20,6 +19,7 @@
 
 [![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/C%2B%2B-4A00D8?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
+[![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 [![](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=flat-square&logo=Affinity-Photo&logoColor=ffffff)](https://affinity.serif.com/en-gb/photo/)
 [![](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=ffffff)](https://www.aseprite.org/)
