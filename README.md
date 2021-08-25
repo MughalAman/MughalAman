@@ -21,9 +21,16 @@
 [![](https://img.shields.io/badge/C%2B%2B-4A00D8?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
+[![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)](https://sqlite.org/)
+[![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+
+
 [![](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=flat-square&logo=Affinity-Photo&logoColor=ffffff)](https://affinity.serif.com/en-gb/photo/)
 [![](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=ffffff)](https://www.aseprite.org/)
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
+[![](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat-square&logo=Godot-Engine&logoColor=ffffff)](https://godotengine.org/)
 
 
 
