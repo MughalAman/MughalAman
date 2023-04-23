@@ -1,6 +1,6 @@
 #### Platforms &  Tools
 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows-11&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/iPhone-iOS-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
 
